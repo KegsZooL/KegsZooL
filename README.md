@@ -1,2 +1,1 @@
-Большой (large):  
-[![codewars](https://www.codewars.com/users/KegsZool/badges/large)](https://www.codewars.com/users/KegsZool) 
+ [![codewars](https://www.codewars.com/users/KegsZool/badges/large)](https://www.codewars.com/users/KegsZool) 
