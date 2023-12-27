@@ -1,8 +1,10 @@
 
 #  :santa: Hi, there, I'm Danil - aka [KegsZooL](https://github.com/KegsZooL) :wave:
+
 <div align="center">
   <img src="https://github.com/KegsZooL/GIFS/raw/main/5.gif" alt="Описание гифа">
 </div>
+
 ---
 ## 🧰 Languages and Tools
 
