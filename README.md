@@ -8,7 +8,8 @@
 <div align="center">
   <img src="https://github.com/KegsZooL/GIFS/raw/main/5.gif" alt="Описание гифа">
 </div>
-##  :santa: Hi, there, I'm Danil - aka [KegsZooL](https://github.com/your-username) :wave:
+
+##  :santa: Hi, there, I'm Danil - aka [KegsZooL](https://github.com/KegsZooL) :wave:
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/KegsZooL) 
 
