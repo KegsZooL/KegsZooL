@@ -4,7 +4,7 @@
 <!-- ![alt text](https://github.com/KegsZooL/GIFS/blob/main/3.gif) -->
 <!-- ![alt text](https://github.com/KegsZooL/GIFS/blob/main/4.gif) -->
 
-## Hi, there, I'm Danil - aka [KegsZooL](https://github.com/your-username) :wave:
+### Hi, there, I'm Danil - aka [KegsZooL](https://github.com/your-username) :wave:
 
 <div align="center">
   <img src="https://github.com/KegsZooL/GIFS/raw/main/5.gif" alt="Описание гифа">
