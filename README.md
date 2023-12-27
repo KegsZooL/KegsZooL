@@ -15,6 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KegsZooL&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 [![codewars](https://www.codewars.com/users/KegsZool/badges/large)](https://www.codewars.com/users/KegsZool)
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KegsZool&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 ---
 
