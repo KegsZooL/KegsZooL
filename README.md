@@ -15,4 +15,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KegsZooL&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 [![codewars](https://www.codewars.com/users/KegsZool/badges/large)](https://www.codewars.com/users/KegsZool)
+
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/KegsZooL) 
