@@ -16,4 +16,4 @@
 
 [![codewars](https://www.codewars.com/users/KegsZool/badges/large)](https://www.codewars.com/users/KegsZool)
 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/KegsZooL) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/KegsZooL) 
