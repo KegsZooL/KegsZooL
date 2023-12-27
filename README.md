@@ -1,10 +1,3 @@
-<!-- ![alt text](https://i.imgur.com/I5WdGEV.png) -->
-<!-- ![alt text](https://github.com/KegsZooL/GIFS/blob/main/1.gif) -->
-<!-- ![alt text](https://github.com/KegsZooL/GIFS/blob/main/2.gif) -->
-<!-- ![alt text](https://github.com/KegsZooL/GIFS/blob/main/3.gif) -->
-<!-- ![alt text](https://github.com/KegsZooL/GIFS/blob/main/4.gif) -->
-
-
 <div align="center">
   <img src="https://github.com/KegsZooL/GIFS/raw/main/5.gif" alt="Описание гифа">
 </div>
@@ -20,5 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KegsZooL&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![codewars](https://www.codewars.com/users/KegsZool/badges/large)](https://www.codewars.com/users/KegsZool)
-
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/KegsZooL) 
