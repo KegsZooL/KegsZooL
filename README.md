@@ -16,6 +16,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=KegsZooL&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 [![codewars](https://www.codewars.com/users/KegsZool/badges/large)](https://www.codewars.com/users/KegsZool)
