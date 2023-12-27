@@ -3,7 +3,10 @@
 <!-- ![alt text](https://github.com/KegsZooL/GIFS/blob/main/2.gif) -->
 <!-- ![alt text](https://github.com/KegsZooL/GIFS/blob/main/3.gif) -->
 <!-- ![alt text](https://github.com/KegsZooL/GIFS/blob/main/4.gif) -->
-![alt text](https://github.com/KegsZooL/GIFS/blob/main/5.gif)
+
+<div align="center">
+  <img src="https://github.com/KegsZooL/GIFS/raw/main/5.gif" alt="Описание гифа">
+</div>
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/KegsZooL) 
 
