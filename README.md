@@ -16,7 +16,6 @@
 
 [![codewars](https://www.codewars.com/users/KegsZool/badges/large)](https://www.codewars.com/users/KegsZool)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KegsZool&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 ---
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/KegsZooL) 
