@@ -5,16 +5,21 @@
 #  ✨ Hi, there, I'm Danil - aka [KegsZooL](https://github.com/KegsZooL) :wave:
 
 ## :tea: Languages and Tools
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" height="72px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" height="72px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="nvim" height="72px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="72px"/>
+</div>
 
 ## :page_with_curl: GitHub Stats: [![](https://visitcount.itsvg.in/api?id=KegsZooL&icon=5&color=11)](https://visitcount.itsvg.in)
 ![](https://github-readme-stats.vercel.app/api?username=KegsZooL&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KegsZooL&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KegsZooL&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+
+## :page_with_curl: Education Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/KegsZooL?theme=dark&font=Inter&ext=heatmap)
+
 [![codewars](https://www.codewars.com/users/KegsZool/badges/large)](https://www.codewars.com/users/KegsZool)
-
----
-
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/KegsZooL) 
