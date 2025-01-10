@@ -12,10 +12,6 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=kegszool&layout=compact&langs_count=8&card_width=320&theme=synthwave&show_icons=true" />
 </div>
 
-<div align="center">
-  <img style="width: 100%; height: 300px;" src="https://leetcard.jacoblin.cool/KegsZooL?theme=radical&font=Inter&ext=heatmap" alt="LeetCode Stats">
-</div>
-
 <h3 align="center">Stack</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" target="_blank" alt="java" height="40px">
