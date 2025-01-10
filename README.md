@@ -10,9 +10,11 @@
 <div>
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=kegszool&show_icons=true&theme=synthwave&rank_icon=github"></img>
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=kegszool&layout=compact&langs_count=8&card_width=320&theme=synthwave&show_icons=true" />
-  <img height=500 src="https://leetcard.jacoblin.cool/KegsZooL?theme=radical&font=Inter&ext=heatmap" />
 </div>
 
+<div align="center">
+  <img style="width: 100%;" src="https://leetcard.jacoblin.cool/KegsZooL?theme=radical&font=Inter&ext=heatmap" alt="LeetCode Stats">
+</div>
 
 <h3 align="center">Stack</h3>
 <div align="center">
