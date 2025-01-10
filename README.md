@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img style="width: 100%; height: 50%" src="https://leetcard.jacoblin.cool/KegsZooL?theme=radical&font=Inter&ext=heatmap" alt="LeetCode Stats">
+  <img style="width: 100%; height: 100px;" src="https://leetcard.jacoblin.cool/KegsZooL?theme=radical&font=Inter&ext=heatmap" alt="LeetCode Stats">
 </div>
 
 <h3 align="center">Stack</h3>
